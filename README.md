@@ -1,6 +1,10 @@
 # financebot
 Multi-Purpose Financial Assistant Bot
 
+We have used many APIs and methods to create a multi purpose telegram bot that will help everyone with some financial tricks.
+
+APIs in the project:
+
 1) EXCHANGERATE_API
 
 To check and show the actual price of different currencies in tenge, we used the ExchangeRate-API. This API provides currency conversion rates for 161 currencies and is perfect for SaaS, dashboards, and e-commerce1. The API is easy to use and provides accurate and reliable exchange rate data from multiple sources1.
